@@ -38,6 +38,8 @@ Core content sourced from https://github.com/jorisvandenbossche/pandas-tutorial 
 * Accessing elements (.iloc[] and .loc[])
 * Simple rules for faster calculations
 
+SQL -> pandas and pandas -> SQL
+
 ## SKLearn
 
 Based on excellent course by Jake Van Der Plas https://github.com/jakevdp/sklearn_tutorial
