@@ -10,19 +10,25 @@ Initial intro to python forked and remixed from "A Beginner's Python Tutorial" b
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jvdkwast/Python3_Jupyter_Notebook/HEAD?labpath=PythonIntro.ipynb)
 
+* make sure to cover dir() and help()
+
 ## Databases and SQL
 
 ## Pandas 
 
 * Read a CSV 
-* Drop nulls (+ what is a null)
+* .apply()
+* Broadcacsting e.g. df['a'] + df['b']
 * 
+* Drop nulls (+ what is a null)
+* Accessing elements (.iloc[] and .loc[])
+* Simple rules for faster calculations
 
 ## SKLearn
 
 * Logistic regression
 * Linear regression
-* K Nearest Neighbours
+* K Nearest Neighbours (do some slightly flair demo here)
 * Decision Trees
 * Random Forests
 * Boosting Algorithms
@@ -34,3 +40,6 @@ Initial intro to python forked and remixed from "A Beginner's Python Tutorial" b
 ## Numpy
 
 ## Flask
+
+* What is an endpoint
+* Deploying a very simple model 
