@@ -16,6 +16,8 @@ Initial intro to python forked and remixed from "A Beginner's Python Tutorial" b
 
 ## Databases and SQL
 
+Why databases and why SQL?
+
 * select (from)
 * where 
 * group by
