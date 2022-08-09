@@ -26,6 +26,8 @@ So Few Workers Go Home On Time
 
 ## Pandas 
 
+Core content sourced from https://github.com/jorisvandenbossche/pandas-tutorial pending approval.
+
 * Read a CSV 
 * .apply()
 * Broadcacsting e.g. df['a'] + df['b']
