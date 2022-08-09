@@ -1,5 +1,7 @@
 # Python Data Science
 
+## What is Data Science?
+
 ## Intro to Python
 
 Initial intro to python forked and remixed from "A Beginner's Python Tutorial" by Steven Thurlow.
@@ -13,6 +15,14 @@ Initial intro to python forked and remixed from "A Beginner's Python Tutorial" b
 * make sure to cover dir() and help()
 
 ## Databases and SQL
+
+* select (from)
+* where 
+* group by
+* having 
+* order by 
+
+So Few Workers Go Home On Time
 
 ## Pandas 
 
@@ -41,5 +51,5 @@ Initial intro to python forked and remixed from "A Beginner's Python Tutorial" b
 
 ## Flask
 
-* What is an endpoint
+* What is an endpoint?
 * Deploying a very simple model 
