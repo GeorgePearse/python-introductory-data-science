@@ -38,6 +38,13 @@ Core content sourced from https://github.com/jorisvandenbossche/pandas-tutorial 
 
 ## SKLearn
 
+Based on excellent course by Jake Van Der Plas https://github.com/jakevdp/sklearn_tutorial
+
+* Feature selection
+* Feature transformation
+* Simple exercise of setting a literal threshold as a classifier
+* The BMI example for feature transformation
+
 * Logistic regression
 * Linear regression
 * K Nearest Neighbours (do some slightly flair demo here)
@@ -51,7 +58,7 @@ Core content sourced from https://github.com/jorisvandenbossche/pandas-tutorial 
 
 ## Numpy
 
-## Flask
+## Flask (maybe skip to FastAPI)
 
 * What is an endpoint?
 * Deploying a very simple model 
