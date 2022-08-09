@@ -57,6 +57,9 @@ Based on excellent course by Jake Van Der Plas https://github.com/jakevdp/sklear
 * Dataset splitting (train, validation, evaluation)
 * Hyperparameter optimization (optuna)
 
+## Neural Networks with Pytorch Lightning or similar
+
+* The rough concept and things to be wary of. Focus on engineering / how to use the APIs rather than theory.
 
 ## Numpy
 
