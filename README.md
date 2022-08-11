@@ -69,3 +69,6 @@ Based on excellent course by Jake Van Der Plas https://github.com/jakevdp/sklear
 
 * What is an endpoint?
 * Deploying a very simple model 
+
+
+[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgePearse)](https://github.com/GeorgePearse/github-readme-stats)
