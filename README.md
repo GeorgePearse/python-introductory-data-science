@@ -40,7 +40,7 @@ Core content sourced from https://github.com/jorisvandenbossche/pandas-tutorial 
 
 SQL -> pandas and pandas -> SQL
 
-## SKLearn
+## SKLearn (Tabular Data)
 
 Based on excellent course by Jake Van Der Plas https://github.com/jakevdp/sklearn_tutorial
 
