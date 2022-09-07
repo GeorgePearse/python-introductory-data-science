@@ -59,16 +59,25 @@ Based on excellent course by Jake Van Der Plas https://github.com/jakevdp/sklear
 * Dataset splitting (train, validation, evaluation)
 * Hyperparameter optimization (optuna)
 
+Encoding -> Embeddings
+
 ## Neural Networks with Pytorch Lightning or similar
 
 * The rough concept and things to be wary of. Focus on engineering / how to use the APIs rather than theory.
 
 ## Numpy
 
+* The absolute basics of what arrays are
+* Why numpy matters
+
 ## Flask (maybe skip to FastAPI)
 
 * What is an endpoint?
 * Deploying a very simple model 
 
+## Streamlit
 
-[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgePearse)](https://github.com/GeorgePearse/github-readme-stats)
+
+## NLP with Hugging Face 
+
+## Computer Vision with Pytorch Lightning
