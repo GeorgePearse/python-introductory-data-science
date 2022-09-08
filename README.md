@@ -33,7 +33,6 @@ Core content sourced from https://github.com/jorisvandenbossche/pandas-tutorial 
 * Read a CSV 
 * .apply()
 * Broadcacsting e.g. df['a'] + df['b']
-* 
 * Drop nulls (+ what is a null)
 * Accessing elements (.iloc[] and .loc[])
 * Simple rules for faster calculations
