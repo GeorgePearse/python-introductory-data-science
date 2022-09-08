@@ -69,6 +69,7 @@ Encoding -> Embeddings
 
 * The absolute basics of what arrays are
 * Why numpy matters
+* Doesn't need a whole section / exercise
 
 ## Flask (maybe skip to FastAPI)
 
