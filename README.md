@@ -65,20 +65,24 @@ Encoding -> Embeddings
 
 * The rough concept and things to be wary of. Focus on engineering / how to use the APIs rather than theory.
 
+## NLP with Hugging Face 
+
+## Computer Vision with Pytorch Lightning
+
 ## Numpy
 
 * The absolute basics of what arrays are
 * Why numpy matters
 * Doesn't need a whole section / exercise
 
-## Flask (maybe skip to FastAPI)
+## Selectively skipped
+
+### Flask (maybe skip to FastAPI)
 
 * What is an endpoint?
 * Deploying a very simple model 
 
-## Streamlit
+### Streamlit
 
 
-## NLP with Hugging Face 
 
-## Computer Vision with Pytorch Lightning
