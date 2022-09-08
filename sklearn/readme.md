@@ -16,4 +16,8 @@
 
 ## Resources 
 
-## Assignments 
+## Assignments and Exercises 
+* Rattle through the classics 
+* Heart Disease
+* Kaggle 
+
